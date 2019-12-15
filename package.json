@@ -1,0 +1,17 @@
+{
+	"name": "nandomonja.com",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/nandomonja/nandomonja.com",
+	"author": "Nando Monja <nandomonja@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"dev": "nuxt",
+		"build": "nuxt build",
+		"start": "nuxt start",
+		"generate": "nuxt generate"
+	},
+	"dependencies": {
+		"nuxt": "^2.10.2"
+	}
+}
